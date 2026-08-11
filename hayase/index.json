@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1337x",
+    "name": "1337x",
+    "version": "1.0.0",
+    "description": "Official 1337x torrent provider extension for Hayase with mirror support, category filtering, and magnet resolution.",
+    "author": "Hayase Community",
+    "icon": "https://1337x.to/favicon.ico",
+    "entrypoint": "1337x.js",
+    "types": ["anime", "movie", "show", "games", "music", "apps", "other", "all"],
+    "mirrors": [
+      "https://1337x.to",
+      "https://1337x.st",
+      "https://1337x.ws",
+      "https://1337x.eu",
+      "https://1337x.se",
+      "https://1337x.is",
+      "https://1337x.gd"
+    ]
+  }
+]
