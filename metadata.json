@@ -1,0 +1,6 @@
+{
+  "name": "1337x Hayase Torrent Extension Studio",
+  "description": "A 1337x provider extension for Hayase with index manifest, search logic, magnet link resolver, mirror support, unit tests, and interactive extension playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
