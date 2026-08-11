@@ -22,7 +22,7 @@ To install this extension in Hayase:
 3. Click **Add Extension Repository** or **Import Extension**.
 4. Paste the raw GitHub URL to `index.json`:
    ```text
-   https://raw.githubusercontent.com/<YOUR_USER>/<YOUR_REPO>/main/hayase/index.json
+   https://github.com/dennisbett/hayase_tor/hayase/index.json
    ```
 5. Click **Fetch / Install**. Hayase will load the manifest and register the `1337x.js` provider.
 
